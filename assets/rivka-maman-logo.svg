@@ -1,1 +1,13 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="140" viewBox="0 0 640 140">
+  <defs>
+    <style>
+      .title { font-family: 'Segoe UI', 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 56px; letter-spacing: 0.5px; }
+      .subtitle { font-family: 'Segoe UI', 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 18px; fill: #4a5568; }
+    </style>
+  </defs>
+  <rect width="640" height="140" fill="transparent"/>
+  <text x="8" y="72" class="title" fill="#3A6FF8">Rivka Maman</text>
+  <rect x="10" y="86" width="320" height="4" rx="2" fill="#3A6FF8"/>
+  <rect x="332" y="86" width="52" height="4" rx="2" fill="#9db7ff"/>
+  <text x="10" y="120" class="subtitle">Full Stack .NET &amp; React Developer</text>
+</svg>
