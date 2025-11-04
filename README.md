@@ -113,7 +113,7 @@ Technology should simplify, support, and elevate the user experience.
 ## Contact
 
 • GitHub: https://github.com/rikiMaman  
-• LinkedIn: https://www.linkedin.com/in/riki-maman  
+• LinkedIn: https://www.linkedin.com/in/rivki-maman/
 • Email: rivkim100@gmail.com
 
 ---
