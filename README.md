@@ -128,7 +128,7 @@ Technology should simplify, support, and elevate the user experience.
 ---
 
 ### 📄 My Resume
-👉 [Click here to view my Resume](Rivka-Maman - CV.docx)
+👉 [Click here to view my Resume](Rivka-Maman-CV.pdf)
 
 
 
