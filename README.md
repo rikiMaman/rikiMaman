@@ -13,8 +13,8 @@ Driven Full Stack Developer with a strong architectural mindset, experienced in 
 I transform abstract concepts into well-structured, production-ready systems using modern engineering practices and continuous learning.
 
 ---
+<h2>Hi, I'm Rivka Maman 💫</h2>
 
-Hi, I'm Rivka Maman 💫
 
 Full-Stack Developer | .NET · React · Angular · SQL
 
