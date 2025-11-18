@@ -2,8 +2,6 @@
   <img src="./assets/rivka-maman-logo.svg" alt="Rivka Maman Logo" width="360"/>
 </p>
 
-Rivka Maman  
-Full Stack .NET & React Developer  
 
 Israel  
 📧 rivkim100@gmail.com  
@@ -16,7 +14,7 @@ I transform abstract concepts into well-structured, production-ready systems usi
 
 ---
 
-💫 Hi, I'm Rivka Maman
+Hi, I'm Rivka Maman 💫
 
 Full-Stack Developer | .NET · React · Angular · SQL
 
@@ -130,7 +128,7 @@ Technology should simplify, support, and elevate the user experience.
 ---
 
 ### 📄 My Resume
-👉 [Click here to view my Resume](./Rivka-Maman - CV.docx)
+👉 [Click here to view my Resume](Rivka-Maman - CV.docx)
 
 
 
