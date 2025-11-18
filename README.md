@@ -2,13 +2,23 @@
   <img src="./assets/rivka-maman-logo.svg" alt="Rivka Maman Logo" width="360"/>
 </p>
 
-# Rivka Maman
-### Full Stack .NET & React Developer
+Rivka Maman  
+Full Stack .NET & React Developer  
+
+Israel  
+📧 rivkim100@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rivki-maman/  
+🔗 Portfolio: https://github.com/rikiMaman 
+
 
 Driven Full Stack Developer with a strong architectural mindset, experienced in designing and building end-to-end software solutions that balance clean architecture, scalability, and impactful user experience.
 I transform abstract concepts into well-structured, production-ready systems using modern engineering practices and continuous learning.
 
 ---
+
+💫 Hi, I'm Rivka Maman
+
+Full-Stack Developer | .NET · React · Angular · SQL
 
 ## About Me
 
@@ -40,14 +50,14 @@ React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS
 SQL Server, MongoDB, EF Core, LINQ
 
 **Architecture & Methodologies**  
-Clean Architecture, OOP, SOLID, REST, MVC, CI/CD Principles
+Clean Architecture, OOP, OOD SOLID, REST, MVC, CI/CD Principles
 
 **Tools & Dev Practices**  
 Git, GitHub, Docker (basics), Jira, Postman, VS Code, Visual Studio
 
 ---
 
-## Featured Projects
+## Featured Projects 🌟
 
 ### English‑Learning Experience Platform
 Full‑Stack interactive system for English learning using games, classroom management, progress tracking, and modular game architecture.  
@@ -101,7 +111,7 @@ Technology should simplify, support, and elevate the user experience.
 
 ---
 
-## Education & Certifications
+## Education & Certifications 🎓
 
 • Practical Software Engineering, Mahat — Graduated with Honors (GPA 98)  
 • Ultra‑Code Excellence Program (Kama‑Tech): Algorithms, Data Structures, OS, Digital Systems  
@@ -110,14 +120,15 @@ Technology should simplify, support, and elevate the user experience.
 
 ---
 
-## Contact
+## Contact 📬
 
 • GitHub: https://github.com/rikiMaman  
-• LinkedIn: https://www.linkedin.com/in/rivki-maman/
-• Email: rivkim100@gmail.com
+• 🔗 LinkedIn: https://www.linkedin.com/in/rivki-maman/
+• 📧 Email: rivkim100@gmail.com
+📌 Israel
 
 ---
 
 ## Resume
 
-(Will be added soon)
+
